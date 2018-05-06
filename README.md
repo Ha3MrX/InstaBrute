@@ -1,5 +1,5 @@
 # InstaBrute
-InstaBrute Two Ways to Brute-force Instagram Account Hacking
+# InstaBrute Two Ways to Brute-force Instagram Account Hacking
 
 ### what is a InstaBrute
 
