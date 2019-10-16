@@ -1,5 +1,5 @@
 #!/bin/bash
-# FB by: https://www.youtube.com/c/Tesla369
+# FB by: http://bit.ly/31rvp2g
 # Instagram: N/A
 
 trap 'store;exit 1' 2
