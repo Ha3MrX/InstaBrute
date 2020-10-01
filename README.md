@@ -1,5 +1,6 @@
 # InstaBrute
 # InstaBrute Two Ways to Brute-force Instagram Account Hacking
+# Works in Kali Linux
 
 ### what is a InstaBrute
 
