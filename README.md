@@ -28,7 +28,7 @@
 
 ### YouTube Channel
 
-### https://www.youtube.com/c/HA-MRX
+### https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
 
 ### Viddeo Tutorial
 
